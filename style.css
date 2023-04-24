@@ -1,0 +1,37 @@
+body{
+          background-image: url("https://cdn.pixabay.com/photo/2017/01/27/16/09/people-2013447_960_720.jpg");
+          background-repeat: no-repeat;
+          border-color: blue; 
+}
+
+/* nevbar */
+.nav-link{
+          color: rgb(145, 145, 198);
+          
+}
+.nav-link:hover {
+          color: black;
+}
+/* hero section */
+
+          
+/* about us */
+.btn {
+          background-color: rgb(145, 145, 198);        
+}
+.btn:hover {
+          background-color:black;
+}
+
+/* contact us */
+.btn {
+          background-color: rgb(145, 145, 198);
+}
+
+/* footer */
+.icon {
+          color: black;
+}
+.icon:hover {
+          color:rgb(145, 145, 198 );
+}
